@@ -21,6 +21,12 @@ Github tool setup
 
 Please someone write instructions here and submit a pull request.
 
+# Take boneless chicken
+# Sprinkle party poppers on it
+# Start a fire (use exam papers as kindling)
+# Dance around the fire with the chicken in your hand
+# This should fix all problems
+
 Features
 ========
 
